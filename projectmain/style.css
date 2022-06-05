@@ -69,3 +69,9 @@
             text-align: center;
             padding-bottom: 20px;
             }
+            .section-two > div:hover {
+                background-color: #dd2247;
+                color: #fff;
+                cursor: pointer;
+                }
+                            
